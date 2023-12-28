@@ -6,7 +6,7 @@ I'm Sergio, a code-wielding Software Engineering on a mission to protect the dig
 
 - 🚀 Currently guarding the stars at Dixper as a Senior Front end developer.
 - 🔧 Mastered the ways of the Force in [Angular](https://angular.io/), [Firebase](https://firebase.google.com/), but always working with other technologies like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), and [Flutter](https://flutter.dev/).
-- 🪐 Currently navigating the [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) galaxy, learning the art of 3D sorcery to bring immersive experiences to the digital realm. Join me on this cosmic journey! 
+- 🪐 Currently navigating the [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) galaxy, learning the art of 3D to bring immersive experiences in the new way to build websites.
 - 🌱 Always learning, because even Jedi Masters need to keep up with the evolving tech universe.
 
 #### ⚔️ Lightsaber Tech Stack
