@@ -5,7 +5,7 @@ I'm [Sergio], a code-wielding [software engineering] on a mission to protect the
 #### 🌌 Journey to the Light Side of Coding
 
 - 🚀 Currently guarding the stars at Dixper as a Senior Front end developer.
-- 🔧 Mastered the ways of the Force in [Angular](https://angular.io/), [Firebase](https://firebase.google.com/), [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), and [Flutter](https://flutter.dev/), with a focus on [Your Specialization].
+- 🔧 Mastered the ways of the Force in [Angular](https://angular.io/), [Firebase](https://firebase.google.com/), but always working with other technologies like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), and [Flutter](https://flutter.dev/).
 - 🌱 Always learning, because even Jedi Masters need to keep up with the evolving tech universe.
 
 #### ⚔️ Lightsaber Tech Stack
@@ -17,8 +17,8 @@ I'm [Sergio], a code-wielding [software engineering] on a mission to protect the
 #### 🌟 May the Stars Be With You
 
 - 📧 Drop me a holographic message at sergio.gundin.rodriguez@gmail.com
-- 💬 Join me on my Jedi adventures at [LinkedIn](www.linkedin.com/in/sergio-rodríguez-gundin-435a6713b)
-- 🐦 Follow my starship on Twitter: @SergioRG92
+- 💬 Join me on my Jedi adventures at [LinkedIn]([www.linkedin.com](https://www.linkedin.com)/in/sergio-rodríguez-gundin-435a6713b)
+- 🐦 Follow my starship on [Twitter](https://twitter.com/SergioRG92)
 
 #### 🌌 Jedi Goals
 
