@@ -17,7 +17,7 @@ I'm [Sergio], a code-wielding [software engineering] on a mission to protect the
 #### 🌟 May the Stars Be With You
 
 - 📧 Drop me a holographic message at sergio.gundin.rodriguez@gmail.com
-- 💬 Join me on my Jedi adventures at [LinkedIn]([www.linkedin.com](https://www.linkedin.com)/in/sergio-rodríguez-gundin-435a6713b)
+- 💬 Join me on my Jedi adventures at [LinkedIn](https://www.linkedin.com/in/sergio-rodríguez-gundin-435a6713b)
 - 🐦 Follow my starship on [Twitter](https://twitter.com/SergioRG92)
 
 #### 🌌 Jedi Goals
