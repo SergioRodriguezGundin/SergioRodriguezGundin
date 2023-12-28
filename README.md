@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-I'm Sergio, a code-wielding Software Engineering on a mission to protect the digital galaxy from the dark forces of bugs and spaghetti code. Hailing from Tatooine 🪐, I'm fueled by a passion for coding and a love for all things Star Wars.
+I'm Sergio, a code-wielding Software Engineering on a mission to protect the digital galaxy from the dark forces of bugs and spaghetti code. Hailing from Tatooine 🪐, I'm fueled by a passion for coding and a love for create software.
 
 #### 🌌 Journey to the Light Side of Coding
 
