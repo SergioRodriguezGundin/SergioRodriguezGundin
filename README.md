@@ -4,13 +4,13 @@ I'm Sergio, a code-wielding Software Engineering on a mission to protect the dig
 
 ## 🌌 Journey to the Light Side of Coding
 
-- 🚀 Currently guarding the stars at Dixper as a Senior Front end developer.
+🚀 Currently guarding the stars at Dixper as a Senior Front end developer.
 
-- 🔧 Mastered the ways of the Force in [Angular](https://angular.io/), [Firebase](https://firebase.google.com/), but always working with other technologies like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), and [Flutter](https://flutter.dev/).
+🔧 Mastered the ways of the Force in [Angular](https://angular.io/), [Firebase](https://firebase.google.com/), but always working with other technologies like [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), and [Flutter](https://flutter.dev/).
 
-- 🪐 Currently navigating the [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) galaxy, learning the art of 3D to bring immersive experiences in the new way to build websites.
+🪐 Currently navigating the [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) galaxy, learning the art of 3D to bring immersive experiences in the new way to build websites.
 
-- 🌱 Always learning, because even Jedi Masters need to keep up with the evolving tech universe.
+🌱 Always learning, because even Jedi Masters need to keep up with the evolving tech universe.
 
 ## ⚔️ Lightsaber Tech Stack
 
@@ -23,7 +23,9 @@ I'm Sergio, a code-wielding Software Engineering on a mission to protect the dig
 ## 🌟 May the Stars Be With You
 
 📧 Drop me a holographic message at sergio.gundin.rodriguez@gmail.com
+
 💬 Join me on my Jedi adventures at [LinkedIn](https://www.linkedin.com/in/sergio-rodríguez-gundin-435a6713b)
+
 🐦 Follow my starship on [Twitter](https://twitter.com/SergioRG92)
 
 ## 🌌 Jedi Goals
