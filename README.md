@@ -6,7 +6,7 @@ I'm Sergio Rodriguez Gundin, a passionate software developer from Spain, Madrid.
 
 | Current Role | Technologies | Current Learning |
 |--------------|--------------|------------------|
-| 🚀 Senior Frontend Developer at Dixper | 🔧 Mastered: [Angular](https://angular.io/), [Firebase](https://firebase.google.com/) [nx](https://nx.dev/) <br> Worked with: [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), [Flutter](https://flutter.dev/) | 🌟 Exploring [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) to create immersive 3D web experiences. <br> 📚 Learning more about ![Astro](https://img.shields.io/badge/Astro-%23212121.svg?&style=for-the-badge&logo=astro) and ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) |
+| 🚀 Senior Frontend Developer at Celonis (Previously at Dixper 🫶🏼)  | 🔧 Mastered: [Angular](https://angular.io/), [Firebase](https://firebase.google.com/) [nx](https://nx.dev/) <br> Worked with: [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build/), [Flutter](https://flutter.dev/) | 🌟 Exploring [![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) to create immersive 3D web experiences. <br> 📚 Learning more about ![Astro](https://img.shields.io/badge/Astro-%23212121.svg?&style=for-the-badge&logo=astro) and ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) |
 
 ## Tech Stack
 
