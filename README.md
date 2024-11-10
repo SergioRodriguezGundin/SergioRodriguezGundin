@@ -1,6 +1,6 @@
-<h1>Hello there!</h1> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+**Hello there!** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<h2>I'm Sergio Rodriguez Gundin</h2>
+**I'm Sergio Rodriguez Gundin**
 
 A Software Engineering with a deep-rooted passion for technology that started in my childhood. Since discovering programming, I haven't stopped learning, tackling new challenges, and pushing my skills further every day. Sports have always been a big part of my life, keeping me balanced and motivated both in and outside the coding world. I'm always open to collaborating on exciting projects, and I'm eager to explore new technologies that can shape the future. Oh, and I'm a huge Star Wars fan—may the Force be with us as we build amazing things together!
 
