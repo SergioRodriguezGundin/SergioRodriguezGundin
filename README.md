@@ -4,7 +4,7 @@ I'm <b>Sergio Rodriguez Gundin</b>, a Software Engineering with a deep-rooted pa
 
 
 * 🌍  I'm based in Madrid, Spain
-* 🖥️  See my portfolio at [sergiorodriguezgundin.dev](https://portfolio-sergiorodriguezgundins-projects.vercel.app/)
+* 🖥️  See my portfolio at [sergiorodriguezgundin.dev](https://www.sergiorodriguezgundin.dev)
 * ✉️  You can contact me at [sergio.gundin.rodriguez@gmail.com](mailto:sergio.gundin.rodriguez@gmail.com)
 * 🚀  I'm currently working on [Celonis](http://celonis.com)
 * 🧠  I'm learning Three.js and Astro
