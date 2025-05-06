@@ -6,7 +6,7 @@ I'm <b>Sergio Rodriguez Gundin</b>, a Software Engineering with a deep-rooted pa
 * 🌍  I'm based in Madrid, Spain
 * 🖥️  See my portfolio at [sergiorodriguezgundin.dev](https://www.sergiorodriguezgundin.dev)
 * ✉️  You can contact me at [sergio.gundin.rodriguez@gmail.com](mailto:sergio.gundin.rodriguez@gmail.com)
-* 🚀  I'm currently working on [Celonis](http://celonis.com)
+* 🚀  I'm currently working on [Dixper](http://dixper.gg)
 * 🧠  I'm learning Three.js and Astro
 * 🤝  I'm open to collaborating on exciting and innovative projects
 * ⚡  Passionate about technology, I see each day as an opportunity to learn something new
